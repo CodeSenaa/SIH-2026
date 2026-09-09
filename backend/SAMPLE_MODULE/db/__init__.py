@@ -1,0 +1,1 @@
+from .xyz_model import SampleTable
